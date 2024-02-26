@@ -23,3 +23,6 @@ import pyautogui
 #816.81 ->539.80
 pyautogui.moveTo(1261,99, 3)
 pyautogui.dragTo(704,93, 3)
+
+pyautogui.moveTo(1261,88,3)
+pyautogui.dragTo(704,89,3)
